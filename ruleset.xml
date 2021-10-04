@@ -44,7 +44,7 @@
 		<exclude name="SlevomatCodingStandard.Functions.StaticClosure.ClosureNotStatic"/>
 		<exclude name="SlevomatCodingStandard.Functions.TrailingCommaInCall.MissingTrailingComma"/>
 		<exclude name="SlevomatCodingStandard.Functions.UnusedParameter.UnusedParameter"/>
-		<exclude name="SlevomatCodingStandard.Namespaces.FullyQualifiedClassNameAfterKeyword"/>
+<!--		<exclude name="SlevomatCodingStandard.Namespaces.FullyQualifiedClassNameAfterKeyword"/>-->
 		<exclude name="SlevomatCodingStandard.Namespaces.FullyQualifiedClassNameInAnnotation"/>
 		<exclude name="SlevomatCodingStandard.Namespaces.FullyQualifiedExceptions"/>
 		<exclude name="SlevomatCodingStandard.Namespaces.FullyQualifiedGlobalConstants.NonFullyQualified"/>
